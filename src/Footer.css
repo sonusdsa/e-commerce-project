@@ -1,0 +1,35 @@
+.footer{
+    background-color: rgb(68, 65, 65);
+    display: flex;
+    padding: 2rem !important;
+   
+
+}
+h1{
+    color: #fff;
+    font-weight: 10;
+    padding-bottom: 1.5rem !important;
+}
+
+.p{
+    cursor: pointer;
+    
+}
+
+.p:hover{
+    cursor: pointer;
+    color: rgb(44, 44, 214);
+}
+
+
+.footers{
+    padding: 4rem 7rem;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 100;
+  
+}
+
+.formControl{
+    background-color: darkslateblue;
+}

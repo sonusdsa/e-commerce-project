@@ -1,0 +1,64 @@
+.main_h1{
+    padding-top: 8rem !important;
+    padding: 4rem 0;
+    text-align: center;
+    background-color: #edcfed;
+    font-size: 4rem;
+    font-weight: 100;
+    color: rgb(230, 14, 122);
+}
+
+.product{
+    background-color: #edcfed;
+}
+
+.cardGroup{
+    padding: 2rem ;
+    padding-bottom: 00.1px !important;
+    
+    
+}
+
+.cardGroup2{
+    padding-top: 0.1px !important;
+    padding: 2rem ;
+    padding-bottom: 8rem !important;
+    
+}
+
+
+.card_body{
+    padding: 1rem;
+}
+
+.card{
+    padding: 2rem 2rem!important;
+    box-sizing: border-box;
+    background-color: #f2eaaf !important;
+    box-shadow: 0 0.2rem 0.5rem rgba(183, 171, 255, 0.5);
+    border: 0.1rem solid var(--primary-color);
+
+    margin: 1%;
+    transition: all 0.4s cubic-bezier(0.175,0.885,0,1);
+    /* background-color: #fff; */
+    width: 21.25%;
+    border-radius: 12px;
+    /* box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1); */
+    float: left;
+}
+.card:hover{
+    transform: scale(1.03,1.03);
+}
+
+
+.title{
+    font-size: 2rem !important;
+    text-transform: capitalize;
+    color: hotpink;
+}
+
+.title:hover{
+    transform: scale(1.05,1.05);
+    cursor: pointer;
+    color: #2505fc;
+}

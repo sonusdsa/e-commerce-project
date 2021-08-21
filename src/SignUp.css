@@ -1,0 +1,43 @@
+.signUp{
+    padding: 6rem 0;
+    background-color: #c2b69a;
+}
+
+.heading1{
+
+    height: 100% !important;
+    align-items: center !important;
+    padding: 5rem 20rem !important;
+    padding-bottom: 10rem !important;
+    font-size: 4rem;
+    color: #4285F4;
+    font-weight: 100;
+}
+
+.form{
+  
+    font-size: 20px;
+   
+}
+
+.box{
+    box-sizing: border-box;
+    font-size: 15px !important;
+}
+
+.submitButton{
+    font-size: 2rem !important;
+    border-radius: 1rem !important;
+    
+}
+
+.submitButton:hover{
+    transform: scale(1.03,1.03);
+    
+}
+
+.boxs:hover{
+
+    transform: scale(1.02,1.02);
+
+}
