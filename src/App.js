@@ -1,5 +1,4 @@
 import React from 'react';
-import { Route, Switch } from 'react-router-dom';
 import Navbar from './navbar';
 import ImageSlider from './ImageSlider';
 import Products from './Products';
@@ -7,6 +6,7 @@ import Footer from './Footer';
 import Login from './Login';
 import SignUp from './SignUp';
 
+const port = process.env.PORT || 8000;
 
 function App() {
 
